@@ -3,7 +3,7 @@ let myColor = ['#FFAC00','#FCFF00','#8FFF00,','#00FF4A','#00FFEE','#FFAC00','#FC
 
 function setup() 
 {
-  createCanvas(windowWidth, windowHeight);  
+  createCanvas(400, 400);  
 
   numShapes = 10;
   circleSize = width-50;
